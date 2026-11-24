@@ -1,0 +1,8 @@
+{
+  "app_version": "1.11.0",
+  "app_code": 20,
+  "app_url": "https://github.com/Delascope/pumpensteuerung-releases/releases/download/app-1.11.0/Pumpensteuerung-1.11.0-release.apk",
+  "app_sha256": "9ec9cadc4050306290155a1b4df93637f2b4cb36033fbadab8544f3c0ad0b723",
+  "app_size": 2111928,
+  "app_notes": "Beim Start prüft die App, ob es eine neue Version gibt, und bietet das Update an\nDie App lädt die neue Version, prüft sie und öffnet die Android-Installation – beim ersten Mal einmalig „Apps aus dieser Quelle zulassen“\nHinweis, wenn für die Steuerung eine neuere Firmware bereitsteht"
+}
