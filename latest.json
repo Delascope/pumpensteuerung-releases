@@ -4,5 +4,10 @@
   "app_url": "https://github.com/Delascope/pumpensteuerung-releases/releases/download/app-1.11.0/Pumpensteuerung-1.11.0-release.apk",
   "app_sha256": "9ec9cadc4050306290155a1b4df93637f2b4cb36033fbadab8544f3c0ad0b723",
   "app_size": 2111928,
-  "app_notes": "Beim Start prüft die App, ob es eine neue Version gibt, und bietet das Update an\nDie App lädt die neue Version, prüft sie und öffnet die Android-Installation – beim ersten Mal einmalig „Apps aus dieser Quelle zulassen“\nHinweis, wenn für die Steuerung eine neuere Firmware bereitsteht"
+  "app_notes": "Beim Start prüft die App, ob es eine neue Version gibt, und bietet das Update an\nDie App lädt die neue Version, prüft sie und öffnet die Android-Installation – beim ersten Mal einmalig „Apps aus dieser Quelle zulassen“\nHinweis, wenn für die Steuerung eine neuere Firmware bereitsteht",
+  "fw_version": "4.9",
+  "fw_url": "https://github.com/Delascope/pumpensteuerung-releases/releases/download/fw-v4.9/pumpensteuerung-v4.9.bin",
+  "fw_sha256": "6e101ae2e60de73738a97b31eeeb4f6c600b1105da8004369391a89220b04ed3",
+  "fw_size": 1306752,
+  "fw_notes": "Weboberfläche › System: „Nach Update suchen“ prüft, ob es eine neue Firmware gibt\n„Installieren“ lädt sie aus dem Internet, prüft die Prüfsumme und startet neu – kein Datei-Hochladen mehr nötig\nFortschritt wird angezeigt, die Weboberfläche bleibt währenddessen bedienbar\nSchlägt etwas fehl, bleibt die bisherige Firmware"
 }
